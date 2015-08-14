@@ -1,21 +1,23 @@
 <section id="events">
-<!-- Page Content -->
-{% for post in site.posts reversed %}
-  {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
-    {% if thecycle == 'odd' %}
+
     <div class="content-section-a">
 
         <div class="container">
-
             <div class="row">
                 <div class="col-lg-5 col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">{{ post.title }}</h2>
-                    <div class="lead">{{ post.content }}</div>
+                    <h2 class="section-heading">Events</h2>
+                    <p class="lead">Have you found yourself walking down a hallway saying "Who was that?"
+
+                    <p>SAM helps us all connect with each other through fun social events that are full of opportunities to meet science grads of own&other departments, alumni and potential employers in industry. </p>
+                    
+                    <p>You will be invited to all events; fun social at the Phoenix, wine & cheese with alumni, to name a few. You will be surprised how much opportunities you have as a Science grad at McMaster.</p>
+
+                    <p><a target="" href="events.html">CHECK out our next event below, step OUT of your lab/office and have FUN socializing!</a></p>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
+                    <img class="img-responsive" src="img/sc_social_3_1024.jpg" alt="">
                 </div>
             </div>
 
@@ -24,8 +26,10 @@
 
     </div>
     <!-- /.content-section-a -->
-    {% else %}
 
+</section>
+
+<section id="apartments">
     <div class="content-section-b">
 
         <div class="container">
@@ -34,11 +38,11 @@
                 <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">{{ post.title }}</h2>
-                    <div class="lead">{{ post.content }}</div>
+                    <h2 class="section-heading">3D Device Mockups<br>by PSDCovers</h2>
+                    <p class="lead">Turn your 2D designs into high quality, 3D product shots in seconds using free Photoshop actions by <a target="_blank" href="http://www.psdcovers.com/">PSDCovers</a>! Visit their website to download some of their awesome, free photoshop actions!</p>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                  <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
+                    <img class="img-responsive" src="img/sc_social_3_1024.jpg" alt="">
                 </div>
             </div>
 
@@ -47,7 +51,4 @@
 
     </div>
     <!-- /.content-section-b -->
-    {% endif %}
-{% endfor %}
 </section>
-
