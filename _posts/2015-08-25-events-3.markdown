@@ -1,0 +1,6 @@
+---
+layout: default
+title: Upcoming Event <br> Lab Coat Social @ the Phoenix! 
+description: |
+---
+(Description)

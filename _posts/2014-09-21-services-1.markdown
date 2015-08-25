@@ -1,9 +1,0 @@
----
-layout: default
-img: 
-title: The lastest event
-description: |
----
-Some event description. 
-
-Do we need image section besides it?

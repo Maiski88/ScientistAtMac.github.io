@@ -9,7 +9,7 @@ layout: sub
 
 <div class="row">
     <!-- Page Content -->
-    {% for post in site.posts reversed %}
+    {% for post in site.posts %}
     {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
     <div class="content-section-a">
