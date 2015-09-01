@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Upcoming Event <br> Lab Coat Social @ the Phoenix! 
+title: Upcoming Event <br> Lab Coat Social @ 1280! 
 description: |
+img: Poster_labcoat.png
 ---
-(Description)
+Free food & Free lab coat for decoration! Show your science pride by decorating a lab coat. If you have one, you can bring your own lab coat. We have ** lab coats for you. First come, first serve so arrive early! Sign up as a team of maximum 5 people and win a prize! "
