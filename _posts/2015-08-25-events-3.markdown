@@ -4,4 +4,6 @@ title: Upcoming Event <br> Lab Coat Social @ 1280!
 description: |
 img: Poster_labcoat.png
 ---
-Free food & Free lab coat for decoration! Show your science pride by decorating a lab coat. If you have one, you can bring your own lab coat. We have ** lab coats for you. First come, first serve so arrive early! Sign up as a team of maximum 5 people and win a prize! "
+Free food & Free lab coat for decoration! Show your science pride by decorating a lab coat. If you have one, you can bring your own lab coat. We have 10 lab coats for you. First come, first serve so arrive early! Sign up as a team of maximum 5 people and win a prize! "
+
+<p> Register for the event at <a href="http://sam-labcoatsocial-2015.eventbrite.ca"> http://sam-labcoatsocial-2015.eventbrite.ca </a> </p>
